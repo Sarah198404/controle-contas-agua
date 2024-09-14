@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment Variables
+.env
+
+# Coverage directory used by tools like istanbul
+coverage/
+.nyc_output/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional REPL history
+.node_repl_history
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and editors
+.vscode/
+
+# Misc
+*.swp
+*.lock-wscript
+public/
+
+# Project build artifacts
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
